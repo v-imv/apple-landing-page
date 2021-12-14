@@ -98,12 +98,13 @@
 }
 
 .section-header {
-  font-size: 55px;
+  font-size: 53px;
   font-family: "apple header";
+  font-weight: 600;
 }
 
 .section-link {
-  font-size: 22px;
+  font-size: 23px;
   text-decoration: none;
   color: rgb(7, 111, 216);
   font-weight: 500;
