@@ -14,5 +14,7 @@ Alternatively, click this link: https://v-imv.github.io/apple-landing-page/
 ## What I Learned:
 
 CSS Variables
+
 Using custom fonts with @font-face
+
 Loading and using free icons through font awesome
