@@ -65,7 +65,7 @@
   color: var(--white-text);
   font-weight: 500;
   font-size: 14px;
-  padding: 13px;
+  padding: 18px;
   gap: 4px;
   text-align: center;
 }
@@ -101,11 +101,45 @@
   font-size: 53px;
   font-family: "apple header";
   font-weight: 600;
+  margin-top: 20px;
 }
 
 .section-link {
   font-size: 23px;
   text-decoration: none;
-  color: rgb(7, 111, 216);
+  color: rgb(13, 120, 226);
   font-weight: 500;
+  margin-top: 10px;
+}
+
+.section-one-images {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 60px;
+  padding: 40px 0px 40px 0px;
+}
+
+.iphone-13-hero-section {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: rgba(251, 251, 253, 255);
+  align-items: center;
+  gap: 10px;
+}
+
+.section-subheader {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.iphone-13-hero-links {
+  display: flex;
+  gap: 30px;
+}
+
+.pro-header {
+  padding-top: 35px;
 }
