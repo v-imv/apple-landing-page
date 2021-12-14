@@ -5,21 +5,71 @@
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.hidden {
-  display: none;
+:root {
+  --white-text: rgb(248, 248, 248);
 }
 
-a {
-  text-decoration: none;
-  color: rgb(187, 187, 187);
-  font-size: 13px;
+.hidden-semantics {
+  display: none;
 }
 
 .top-nav {
   background-color: rgb(51, 51, 51);
   padding: 12px;
   display: flex;
-  gap: 50px;
+  gap: 45px;
   justify-content: center;
   align-items: center;
+}
+
+.top-nav-items {
+  text-decoration: none;
+  color: rgb(187, 187, 187);
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.nav-icon,
+.sub {
+  color: rgb(216, 216, 216);
+}
+
+.fa-apple {
+  transform: scale(1.2);
+}
+
+.fa-search,
+.fa-shopping-bag {
+  transform: scale(0.8);
+}
+
+.fa-chevron-right {
+  transform: scale(0.6);
+}
+
+.christmas-promo {
+  background-color: rgb(227, 65, 64);
+  color: var(--white-text);
+  font-weight: 500;
+  font-size: 14px;
+  padding: 13px;
+  gap: 4px;
+  text-align: center;
+}
+
+.white-color-match {
+  color: var(--white-text);
+}
+
+.superscript {
+  display: inline-block;
+  font-size: 8px;
+  font-weight: 700;
+  transform: translate(0px, 3px);
+}
+
+.temp {
+  background-color: rgb(234, 242, 252);
+  width: 100%;
+  height: 1000px;
 }
