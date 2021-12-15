@@ -98,7 +98,7 @@
 }
 
 .section-header {
-  font-size: 53px;
+  font-size: 50px;
   font-family: "apple header";
   font-weight: 600;
   margin-top: 20px;
@@ -125,7 +125,7 @@
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 650px;
+  height: 610px;
   background-color: rgba(251, 251, 253, 255);
   align-items: center;
   gap: 10px;
@@ -136,7 +136,7 @@
 }
 
 .section-subheader {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 400;
 }
 
@@ -147,4 +147,11 @@
 
 .pro-header {
   padding-top: 35px;
+}
+
+.airpods-hero-section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
 }
