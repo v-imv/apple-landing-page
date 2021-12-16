@@ -15,3 +15,4 @@ You can see how this project looks by clicking on "github-pages" under the headi
 - CSS Variables
 - Using custom fonts with @font-face
 - Loading and using free icons through font awesome
+- Background Image (and related) CSS properties
