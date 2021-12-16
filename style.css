@@ -218,13 +218,39 @@
   height: 550px;
   margin: 10px 10px 10px 0px;
   width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 .smaller-link {
   color: rgb(53, 144, 235);
+  font-size: 19px;
 }
 
 .smaller-header {
   font-size: 36px;
   padding: 3px;
+}
+
+.apple-watch-links {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.apple-watch-img {
+  width: 150px;
+  height: auto;
+}
+
+.apple-watch-new-text {
+  color: rgb(204, 35, 41);
+  font-size: 12px;
+  padding-bottom: 6px;
+  margin-top: 25px;
+}
+
+.apple-watch-header {
+  font-size: 20px;
+  padding-top: 6px;
 }
