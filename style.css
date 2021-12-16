@@ -133,7 +133,7 @@
   background-color: rgba(251, 251, 253, 255);
   align-items: center;
   gap: 10px;
-  background-image: url(/images/iphone-13-hero.jpg);
+  background-image: url(images/iphone-13-hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -164,7 +164,7 @@
   width: 100%;
   height: 650px;
   align-items: center;
-  background-image: url(/images/airpods-silhouette.jpg);
+  background-image: url(images/airpods-silhouette.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -196,7 +196,7 @@
 }
 
 .iphone-13-card {
-  background-image: url(/images/iphone-13-main.jpg);
+  background-image: url(images/iphone-13-main.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -211,7 +211,7 @@
 }
 
 .apple-watch-card {
-  background-image: url(/images/apple-watch-main.jpg);
+  background-image: url(images/apple-watch-main.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -257,7 +257,7 @@
 }
 
 .homepod-mini-card {
-  background-image: url(/images/homepod-main.jpg);
+  background-image: url(images/homepod-main.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 56%;
@@ -270,7 +270,7 @@
 }
 
 .macbook-pro-card {
-  background-image: url(/images/macbook-pro-main.jpg);
+  background-image: url(images/macbook-pro-main.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 66%;
