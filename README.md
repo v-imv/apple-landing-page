@@ -4,9 +4,12 @@ This is a HTML and CSS recreation of the Apple Website's Landing Page.
 
 ## Purpose Of This Project
 
-I undertook this project to test out my HTML and CSS skills and to include it as a portfolio piece.
+I undertook this project to:
 
-## How To Access
+- Test out and improve my HTML and CSS skills.
+- Include as a portfolio piece.
+
+## How To Access/View
 
 You can see how this project looks by clicking on "github-pages" under the heading "Environments".
 
