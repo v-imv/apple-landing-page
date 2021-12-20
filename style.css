@@ -330,7 +330,9 @@ footer {
   background-color: rgb(247, 247, 247);
 }
 
-.footer-text {
+.footer-text,
+.bold-footer-header,
+.darker-footer-text {
   display: block;
   margin-bottom: 14px;
   font-size: 12px;
@@ -348,4 +350,27 @@ hr {
   margin: 10px;
   margin-left: 0;
   margin-right: 0;
+}
+
+.footer-info-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 80px;
+}
+
+.footer-info-containers {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.bold-footer-header {
+  font-weight: bold;
+  color: rgb(71, 71, 71);
+}
+
+.darker-footer-text {
+  color: rgb(85, 85, 85);
+  margin-bottom: 10px;
 }
