@@ -374,3 +374,17 @@ hr {
   color: rgb(85, 85, 85);
   margin-bottom: 10px;
 }
+
+.top-nav-items:hover,
+.nav-icon:hover {
+  color: var(--white-text);
+}
+
+.top-nav-items,
+.nav-icon {
+  transition: color 0.3s ease-in-out;
+}
+
+.hover-underline:hover {
+  text-decoration: underline;
+}
