@@ -32,6 +32,7 @@
   gap: 45px;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .top-nav-items {
@@ -122,6 +123,7 @@
   justify-content: center;
   gap: 60px;
   padding: 40px 0px 40px 0px;
+  flex-wrap: wrap;
 }
 
 .iphone-13-hero-section {
@@ -357,6 +359,7 @@ hr {
   flex-direction: row;
   justify-content: center;
   gap: 80px;
+  flex-wrap: wrap;
 }
 
 .footer-info-containers {
