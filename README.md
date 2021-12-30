@@ -1,13 +1,12 @@
 # Apple Website Landing Page
 
-This is a HTML and CSS recreation of the Apple Website's Landing Page.
+A vanilla HTML & CSS recreation of the Apple Landing Page on Desktop.
 
 ## Purpose Of This Project
 
 I undertook this project to:
 
 - Test out and improve my HTML and CSS skills.
-- Include as a portfolio piece.
 
 ## How To Access/View
 
