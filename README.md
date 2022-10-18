@@ -1,6 +1,6 @@
 # Apple Website Landing Page
 
-A vanilla HTML & CSS recreation of the Apple Landing Page on Desktop.
+A HTML & CSS recreation of the Apple Landing Page on Desktop.
 
 ## Purpose Of This Project
 
@@ -10,7 +10,8 @@ I undertook this project to:
 
 ## How To Access/View
 
-You can see how this project looks by clicking on "github-pages" under the heading "Environments".
+You can see how this project looks by clicking this [link](https://v-imv.github.io/apple-landing-page/) or by clicking on the page link under the "About" section on the right hand side of the screen.
+
 
 ## What I Learned
 
